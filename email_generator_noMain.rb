@@ -1,4 +1,6 @@
-require 'open-uri'
+
+# NOTE: script will automatically save generated emails to your clipboard when
+# using on Mac.  Windows users will still have to copy/paste.
 
 class Email
 
